@@ -1,0 +1,21 @@
+{
+    "name": "pascals-triangle",
+    "version": "1.0.0",
+    "description":
+        "Building the triangle that starting with \"1\" at the top, then continue placing numbers below it in a triangular pattern",
+    "keywords": ["react", "javascript", "triangle"],
+    "main": "src/index.js",
+    "dependencies": {
+        "react": "16.3.2",
+        "react-dom": "16.3.2",
+        "react-scripts": "1.1.4",
+        "styled-components": "3.3.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
